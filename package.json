@@ -1,0 +1,24 @@
+{
+  "name": "nodecrud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@googleapis/docs": "^2.0.1",
+    "@googlemaps/google-maps-services-js": "^3.3.31",
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.1.4",
+    "express": "^4.18.2",
+    "googleapis": "^118.0.0",
+    "googlemaps": "^0.1.5",
+    "jsonwebtoken": "^9.0.0",
+    "mysql2": "^3.3.3"
+  }
+}
