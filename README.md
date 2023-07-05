@@ -3,21 +3,6 @@ Avaliação 3
 Sistemas Distribuídos e Mobile
 Grupo Ânima - UNA 1/2023
 
-Link do Vídeo de Apresentação:
-https://youtu.be/JIhOVj5TF6I
-
-
-Integrantes:
--Angélica Bicego Ferreira RA-321220089
--Augusto Moreira Magalhães RA-321218253
--Felipe Lara Aguiar RA-821116335
--Gabriel Alencar Barbosa Batista RA-722210472
--Hugo Santos RA-321214049
--Kaique Cardoso De Campos RA-821234753
--Paulo Sette Câmara RA-321217159
--Thiago Garcia dos Santos RA-821215213
-
-
 Para rodar Local:
 
 /config.js
