@@ -1,8 +1,13 @@
-Projeto Horta Conecta
-Avaliação 3
-Sistemas Distribuídos e Mobile
-Grupo Ânima - UNA 1/2023
+## Projeto Horta Conecta
 
+O projeto tem como objetivo promover a conexão entre hortas comunitárias, quintais domésticos e agricultura comercial, visando combater a fome, incentivando a agricultura sustentável e fortalecendo as comunidades locais, através de uma plataforma que facilita a troca e doação de alimentos e venda a baixo custo;​
+
+Tecnologias utilizadas: Node.js, MySQL, Autenticação via token, Integração com API Google Maps para calcular distância
+
+Futuro do Projeto:     Camada de Front-End e Implementação de chat e perfil​
+
+-----
+    
 Para rodar Local:
 
 /config.js
