@@ -1,10 +1,20 @@
+## Horta Connect Project
+
+The project aims to promote the connection between community gardens, home gardens and commercial agriculture, aiming to fight hunger, encourage sustainable agriculture and strengthen local communities, through a platform that facilitates the exchange and donation of food and sale at low cost ;
+
+Technologies used: Node.js, MySQL, Authentication via token, Integration with Google Maps API to calculate distance  between user and vegetable garden.
+
+Future of the Project: Front-End Layer and Chat and Profile Implementation​
+
+-----
+
 ## Projeto Horta Conecta
 
 O projeto tem como objetivo promover a conexão entre hortas comunitárias, quintais domésticos e agricultura comercial, visando combater a fome, incentivando a agricultura sustentável e fortalecendo as comunidades locais, através de uma plataforma que facilita a troca e doação de alimentos e venda a baixo custo;​
 
-Tecnologias utilizadas: Node.js, MySQL, Autenticação via token, Integração com API Google Maps para calcular distância
+Tecnologias utilizadas: Node.js, MySQL, Autenticação via token, Integração com API Google Maps para calcular distância entre usuário e a horta.
 
-Futuro do Projeto:     Camada de Front-End e Implementação de chat e perfil​
+Futuro do Projeto: Camada de Front-End e Implementação de chat e perfil​
 
 -----
     
